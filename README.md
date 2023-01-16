@@ -1,8 +1,8 @@
 # Chat-Encryptor-python
 this app uses hotkeys to encrypt and decrypt messages.
-Instructions on how to use the program:
-Key is copied to your clipboard after you either ask for a new key or type the new key into dialog box.
-To use the program. share the program with your friends and ask them to download and set it up. once thats done, run the program
+Instructions on how to use the program: \n
+Key is copied to your clipboard after you either ask for a new key or type the new key into dialog box. \n
+To use the program. share the program with your friends and ask them to download and set it up. once thats done, run the program \n
 this time when the dialog asks if u require a new key. select "yes" and then the new key will be copied to your clipboard.
 share the new key with your friends over a secure channel
 Once the deired recipient recieves the key, they have to run the program and select "no" at the prompt asking you "if u require a new key".
